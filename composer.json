@@ -1,0 +1,15 @@
+{
+    "name": "nwatth/backboard",
+    "description": "Fast work tool",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nantiwat Thongseng",
+            "email": "nwatth@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
